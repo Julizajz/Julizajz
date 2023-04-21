@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently enrolled in the Junior Web Development program at Generation USA.
 - 🌱 I’m currently learning how to best work on a team and learning advanced concepts in html, css, and javascript. 
-- 👯 I’m looking to collaborate on new teams and new projects to furhter my learning journey. 
+- 👯 I'm looking to collaborate on open-source projects related to front-end development. 
 - 🤔 I'm currently looking for help in improving my CSS skills, specifically in using advanced layout techniques such as flexbox and grid to create more responsive and         dynamic web designs. 
 - 📫 How to reach me: Linkedin: [https://www.linkedin.com/in/juliza-zepeda/] Email: [zepeda.juliza@gmail.com]
