@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently a student in a Junior Web Development bootcamp at Generation USA.
+- 🔭 I’m currently enrolled in the Junior Web Development program at Generation USA.
 - 🌱 I’m currently learning how to best work on a team and learning advanced concepts in html, css, and javascript. 
 - 👯 I’m looking to collaborate on new teams and new projects to furhter my learning journey. 
 - 🤔 I’d like help on making sure I'm following good practice rules and not creating bad habbits in my code. 
